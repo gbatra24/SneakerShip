@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SneakerShip</string>
+    <string name="cart">Cart</string>
+    <string name="lbl_my_cart">Cart</string>
+    <string name="lbl_details">Details</string>
+    <string name="lbl_search_items">Search products</string>
+    <string name="lbl_add_to_cart">Add to Cart</string>
+    <string name="lbl_remove">Remove</string>
+    <string name="lbl_order_details">Order Details</string>
+    <string name="lbl_checkout">Checkout</string>
+</resources>
